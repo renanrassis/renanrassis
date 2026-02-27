@@ -1,18 +1,8 @@
-# Hello World!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=100&size=30&duration=4000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=500&lines=Hello+World!)](https://git.io/typing-svg)
 
 **`Cientista de Dados`**
 
 Em formação em Ciência de Dados, com experiência em análise de indicadores, automatização de processos e eficiência operacional. Assim, a lógica é voltada para um resultado sustentável e a tecnologia disruptiva
-
-<p>
-<br>
-<div>
-  <a href = "https://github.com/renanrassis"></a>
-  <img align = "left" height = "200px" src = "https://github-readme-stats.vercel.app/api?username=renanrassis&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&locale=pt-br">
-  <img align = "left" height = "200px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=renanrassis&layout=compact&langs_count=7&theme=transparent&locale=pt-br">
-</div>
-<br>
-</p>
 
 <p>
 <br>
